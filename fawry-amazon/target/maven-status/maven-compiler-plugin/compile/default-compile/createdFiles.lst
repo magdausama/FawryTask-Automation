@@ -1,0 +1,7 @@
+com\amazon\Pages\HomePage.class
+com\amazon\Base\PageBase.class
+com\amazon\Base\TestBase.class
+com\amazon\Pages\LoginPage.class
+com\amazon\Factory\DriverFactory.class
+com\amazon\Utils\ConfigUtils.class
+com\amazon\Utils\PropertiesUtils.class
